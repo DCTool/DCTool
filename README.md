@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="380"  src="https://i.ibb.co/4JrZw2r/image.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LuvCii&label=Visit%20viewers&color=0e75b6&style=flat" alt="MinhDung" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DCTool&label=Visit%20viewers&color=0e75b6&style=flat" alt="MinhDung" /> </p>
 
 
 
